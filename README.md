@@ -1,6 +1,6 @@
 ### Oie :) 
 - 🌱 Estudo Ciência da Computação na UFMG
-- 📫 Contato: dyamamoto6@gmail.com
+- 📫 Contato: dbyamamoto6@gmail.com
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
