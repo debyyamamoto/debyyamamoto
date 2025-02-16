@@ -7,4 +7,4 @@
   <img align="center" alt="Debs-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-![Déborah's GitHub stats](https://github-readme-stats.vercel.app/api?username=debyyamamoto&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debyyamamoto&hide_progress=true)
